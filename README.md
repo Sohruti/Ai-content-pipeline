@@ -66,6 +66,3 @@ linkedin-ai-os/
 | `TAVILY_API_KEY` | Tavily API key for web research |
 | `EMBEDDING_MODEL` | Sentence transformer model |
 
-## License
-
-Proprietary - Second Order Systems
