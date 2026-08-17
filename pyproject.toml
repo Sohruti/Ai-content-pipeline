@@ -1,0 +1,8 @@
+[project]
+name = "linkedin-ai-os"
+version = "0.1.0"
+description = "2OS GTM Content Operating System - AI-powered LinkedIn content pipeline"
+requires-python = ">=3.11"
+
+[project.scripts]
+linkedin-os = "app.main:main"
